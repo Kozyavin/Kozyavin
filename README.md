@@ -1,8 +1,40 @@
-![Header](https://github.com/Kozyavin/Kozyavin/tree/main/assets/testing.png)
 ![Header](assets/testing.png)
-assets/testing.png
-### Hi there 👋
 
+<h1 style="text-align: center;">Приветствую! 👋</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=Я+QA+Engeneer+(manual))](https://git.io/typing-svg)
+
+---
+ 
+### About me :sunglasses:
+- Прочитал лучшие книги про тестирование; :fire:
+- В тестировании с 2024 года;
+- Актуализировал 100+ тест-кейсов;
+- Люблю ходить в кинотеатр и в тур-походы; :musical_note:
+- Умею делать изделия из стекла (стелодув) :zap:
+- Учил корейский и персидчкий язык
+- Мечтаю построить дом по своему проекту
+
+Часто применяемая поговорка: глаза боятся, а руки делают!
+
+---
+
+### Курсы, которые я закончил:
+2023: Netology
+
+2024: QA sutudio  ![Header](https://static.tildacdn.com/tild3137-3961-4830-b630-623362633037/fav__orange.png)
+---
+
+### 🤝 Социальные сети:
+
+  <div id="badges">
+    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
+    </a>
+    <a href="https://t.me/artsiom_qa" target="_blank">
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+    </a>
+  </div>
 <!--
 **Kozyavin/Kozyavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
