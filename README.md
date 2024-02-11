@@ -20,7 +20,7 @@
 ---
 
 ### Курсы, которые я закончил:
-2023: Netology  ![Header](assets/lardge.png)
+2023: Netology  ![Header](assets/large.png)
 
 2024: QA sutudio  ![Header](assets/qa_studio.png)
 ---
