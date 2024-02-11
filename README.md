@@ -20,18 +20,17 @@
 ---
 
 ### Курсы, которые я закончил:
-2023: Netology  ![Header](assets/large.png)
 
-2024: QA sutudio  ![Header](assets/qa_studio1.png)
+### 2023: Netology  ![Header](assets/large.png)
+
+### 2024: QA sutudio  ![Header](assets/qa_studio1.png)
+
 ---
 
 ### 🤝 Социальные сети:
 
   <div id="badges">
-    <a href="https://www.linkedin.com/in/artsiomrusau/" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    <a href="https://t.me/artsiom_qa" target="_blank">
+    <a href="https://t.me/kozyavin_v" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
     </a>
   </div>
