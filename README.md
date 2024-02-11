@@ -1,15 +1,15 @@
-![Header](assets/testing.png)
+![Header](assets/testing.png )
 
-<h1 style="text-align: center;">Приветствую! 👋</h1>
+<h1 style="text-align: center;"> Приветствую! Меня зовут Владимир. 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=EE8838&width=435&lines=Я+QA+Engeneer+(manual))](https://git.io/typing-svg)
 
 ---
  
-### About me :sunglasses:
-- Прочитал лучшие книги про тестирование; :fire:
-- В тестировании с 2024 года;
-- Актуализировал 100+ тест-кейсов;
+### Обо мне :sunglasses:
+- Прочитал лучшие книги про тестирование :fire:
+- В тестировании с 2024 года
+- Актуализировал 100+ тест-кейсов
 - Люблю ходить в кинотеатр и в тур-походы; :musical_note:
 - Умею делать изделия из стекла (стелодув) :zap:
 - Учил корейский и персидчкий язык
@@ -19,11 +19,26 @@
 
 ---
 
-### Курсы, которые я закончил:
+### Образование:
 
-### 2023: Netology  ![Header](assets/large.png)
+### 2023: QA Engeneer Netology  ![Header](assets/large.png)
 
-### 2024: QA sutudio  ![Header](assets/qa_studio1.png)
+### 2024: QA Engeneer QA sutudio  ![Header](assets/qa_studio1.png)
+
+---
+
+### Технологии:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/confluence/confluence-original-wordmark.svg"  width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg"  width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"  width="40" height="40"/>
+  <img src="https://d33wubrfki0l68.cloudfront.net/38b5c953a4667366685d55db55d057c86db1fc54/a0fdc/static/acae6b24d940347661ca901ea07f47c1/chrome-dev-logo-icon.png"  width="40" height="40"/>
+  <img src="https://seeklogo.com/images/P/postman-logo-0087CA0D15-seeklogo.com.png"  width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1024px-Bash_Logo_Colored.svg.png?20180723054350"  width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  width="40" height="40"/>
+</div>
 
 ---
 
@@ -31,20 +46,8 @@
 
   <div id="badges">
     <a href="https://t.me/kozyavin_v" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram" />
+      <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram"/>
     </a>
   </div>
-<!--
-**Kozyavin/Kozyavin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
