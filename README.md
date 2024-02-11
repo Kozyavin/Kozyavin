@@ -20,9 +20,9 @@
 ---
 
 ### Курсы, которые я закончил:
-2023: Netology
+2023: Netology  ![Header](assets/testing.png)
 
-2024: QA sutudio  ![Header](https://static.tildacdn.com/tild3137-3961-4830-b630-623362633037/fav__orange.png)
+2024: QA sutudio  ![Header](assets/testing.png)
 ---
 
 ### 🤝 Социальные сети:
